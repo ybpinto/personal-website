@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css?family=Lato|Libre+Baskerville');
+@import url('https://fonts.googleapis.com/css?family=Lato|Merriweather');
 
 .h1-title {
     text-align: center;
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'Merriweather', serif;
 }
 
 p {
